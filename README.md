@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Домашнее задание к занятию «Система мониторинга Zabbix»`" - `Абрамов Александр`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -41,8 +41,8 @@
 Для Astra Linux нужно использовать дополнительные настройки 
 https://wiki.astralinux.ru/pages/viewpage.action?pageId=38699775
 
-![alt text]https://github.com/79195679376ab-star/abramov-zabbix/blob/main/Zabbix1(1).png
-![alt text]https://github.com/79195679376ab-star/abramov-zabbix/blob/main/zabbix1.png
+https://github.com/79195679376ab-star/abramov-zabbix/blob/main/Zabbix1(1).png
+https://github.com/79195679376ab-star/abramov-zabbix/blob/main/zabbix1.png
 
 
 ---
