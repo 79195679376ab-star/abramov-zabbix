@@ -30,8 +30,8 @@
 # wget https://repo.zabbix.com/zabbix/7.4/release/debian/pool/main/z/zabbix-release/zabbix-release_latest_7.4+debian13_all.deb
 # dpkg -i zabbix-release_latest_7.4+debian13_all.deb
 # apt update
-# apt install zabbix-server-pgsql zabbix-frontend-php php8.4-pgsql zabbix-apache-conf zabbix-sql-scripts
-# su - postgres -c 'psql --command "CREATE USER zabbix WITH PASSWORD '\'123456789\'';"'
+# apt install zabbix-server-pgsql zabbix-frontend-php php8.2-pgsql zabbix-apache-conf zabbix-sql-scripts
+# su - postgres -c 'psql --command "CREATE USER zabbix WITH PASSWORD '1111'';"'
 # su - postgres -c 'psql --command "CREATE DATABASE zabbix OWNER zabbix;"'
 # zcat /usr/share/zabbix/sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
 # nano /etc/zabbix/zabbix_server.conf - можно вручную поменять параметр
