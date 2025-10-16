@@ -57,9 +57,6 @@
 ###       Server=127.0.0.1,192.168.0.13,172.17.0.1
 ### #sudo systemctl restart zabbix-agent
 ### #sudo systemctl status zabbix-agent
-```
-
-
 ### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/1.png)
 ### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/2.png)
 ### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/3.png)
