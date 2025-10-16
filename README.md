@@ -60,6 +60,6 @@
 ```
 
 
-(https://github.com/79195679376ab-star/abramov-zabbix/blob/main/1.png)
-(https://github.com/79195679376ab-star/abramov-zabbix/blob/main/2.png
-(https://github.com/79195679376ab-star/abramov-zabbix/blob/main/3.png
+### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/1.png)
+### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/2.png)
+### ![Скриншот](https://github.com/79195679376ab-star/abramov-zabbix/blob/main/3.png)
